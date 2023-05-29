@@ -9,7 +9,7 @@
     "libraries": "libraries"
   },
   "dependencies": {
-    "wabt": "^1.0.13",
+    "wabt": "1.0.13",
     "yargs": "^15.3.1"
   },
   "devDependencies": {},
